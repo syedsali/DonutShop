@@ -1,0 +1,48 @@
+body{
+    background-color: lightgray;
+}
+#first{
+    background-image: url(images/donuthome.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#main{
+    font-size: 75px;
+    font-style: bold;
+    color: black;
+    font-family: 'Varela Round', sans-serif;
+}
+#heading{
+    font-size: 35px;
+    font-family: 'Calligraffitti', cursive;
+    font-style: bold;
+}
+h2{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Varela Round', sans-serif;
+}
+.img1{
+    margin-left: 150px;
+}
+.img2{
+    margin-left: 100px;
+}
+.img3{
+    margin-left:100px;
+}
+.santa{
+    font-size: 30px;
+    color: green;
+    margin-left: 205px;
+    font-family: 'Varela Round', sans-serif;    
+}
+.img4{
+    margin-left: 150px;
+}
+.img5{
+    margin-left: 100px;
+}
+.img6{
+    margin-left: 100px;
+}
